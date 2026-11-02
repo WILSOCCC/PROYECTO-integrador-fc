@@ -29,3 +29,15 @@ Se incluye:
 - Funcionalidad para adjuntar el comprobante de transferencia.
 - Creación de una base de datos con los comprobantes, las fechas y los artículos consumidos.
 - Creación de una utilidad de visualización básica, para que el administrador (el dueño) pueda consultar las transacciones que se hicieron de esta manera y ver qué artículos se consumieron.
+ ## IV. Distribución de actividades
+
+1. **Frontend**: Guillermo Canto.
+Creación del formulario y su correspondiente diseño, además de la generación del código QR.
+
+
+2. **Backend**: Daniel Chan.
+Enlazar las entradas del formulario a la herramienta que se utilizará como base de datos.
+
+3. **Base de datos**: Wilberth Solís.
+Desarrollo de la base de datos para que la información obtenida sea fácil de visualizar por el administrador.
+
